@@ -21,12 +21,18 @@ Contract: https://ftmscan.com/token/0x815351731EAB60e617ec4AcfaA927dc3f657B216#c
 You can find all our links here:
 
 Website: https://vampire.biz
+
 Twitter: https://twitter.com/VampToken
+
 Telegram: https://t.me/VampireToken
+
 Discord: https://discord.gg/ANAqkm5xrk
 
 Whitepaper: https://vampire.biz/whitepaper
+
 Bloodpaper: https://vampire.biz/bloodpaper
+
 Team: https://vampire.biz/team
+
 Audits: https://vampire.biz/audits
 
